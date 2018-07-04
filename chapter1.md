@@ -34,6 +34,7 @@ The instructions that follow should be in bullet point form with clear guidance 
 `@pre_exercise_code`
 ```{python}
 # Load datasets and packages here.
+x = 1
 ```
 `@sample_code`
 ```{python}
@@ -53,6 +54,7 @@ The instructions that follow should be in bullet point form with clear guidance 
 # Make sure to match the comments with your sample code
 # to help students see the differences from solution
 # to given.
+x
 ```
 `@sct`
 ```{python}
